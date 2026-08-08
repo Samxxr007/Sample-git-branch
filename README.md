@@ -2,5 +2,9 @@
 
 
 
-This project demonstrates Git branching, merging and conflict resolution.
+\## Main Branch
+
+
+
+This change was made in the main branch.
 
